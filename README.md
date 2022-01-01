@@ -17,4 +17,4 @@ Locally ==> command: git tag -d tag_name
 command: git tag 
 command: git tag --list 
 
-![alt text](https://github.com/[Omar-Eidaros]/[Lab-2-Repo]/blob/[master]/git.png?raw=true)
+![alt text](https://github.com/Omar-Eidaros/Lab-2-Repo/blob/master/git.png?raw=true)
